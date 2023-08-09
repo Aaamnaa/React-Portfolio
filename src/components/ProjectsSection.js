@@ -9,6 +9,7 @@ const projects = [
     description:
       "The portfolio website developed using React.js along with Chakra UI, Yup, Formik, and FontAwesome. Demonstrated a combination of modern design principles, responsive layout, and enhanced user experience. React.js-based portfolio website is a testament to my skills and dedication as a frontend developer. ",
     getImageSrc: () => require("../images/photo6.jpg"),
+    url:"https://react-portfolio-tawny-alpha.vercel.app/"
   },
   {
     title: "React Movie Search App",
