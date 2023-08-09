@@ -22,10 +22,10 @@ const socials = [
     icon: faGithub,
     url: "https://github.com/Aaamnaa" ,
   },
-  {
-    icon: faLinkedin,
-    url: "https://www.linkedin.com",
-  },
+  // {
+  //   icon: faLinkedin,
+  //   url: "https://www.linkedin.com",
+  // },
   // {
   //   icon: faMedium,
   //   url: "https://medium.com",
