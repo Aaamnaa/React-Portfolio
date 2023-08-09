@@ -12,9 +12,9 @@ const projects = [
     url:"https://react-portfolio-tawny-alpha.vercel.app/"
   },
   {
-    title: "React Movie Search App",
+    title: "React Movie Search WebApp",
     description:
-      "The movie search website developed using React.js, Tailwind CSS, Styled Components, Axios, and FontAwesome showcased a well-rounded implementation of core React concepts. Users were empowered to search for movies, access detailed information, and navigate the website with ease.",
+      "The movie search webapp developed using React.js, Tailwind CSS, Styled Components, Axios, and FontAwesome showcased a well-rounded implementation of core React concepts. Users were empowered to search for movies, access detailed information, and navigate the website with ease.",
     getImageSrc: () => require("../images/photo5.jpg"),
     url:"https://react-movie-app-nu-eight.vercel.app/"
   },
